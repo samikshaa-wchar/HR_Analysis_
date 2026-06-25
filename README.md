@@ -17,4 +17,6 @@ This project analyzes employee attrition and workforce trends using Power BI.
 - Age Group Distribution
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+(Add dashboard screenshot )
+<img width="1438" height="742" alt="Screenshot 2026-06-24 215400" src="https://github.com/user-attachments/assets/834cafd5-602e-40f1-b94f-3fae662bd9e5" />
+
